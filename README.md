@@ -4,6 +4,9 @@ A simple from-scratch interactive web application that allows users to submit th
 
 ## 🚀 Live Demo
 
+<img width="2528" height="1360" alt="image" src="https://github.com/user-attachments/assets/e467add5-2893-414f-ae3d-bc54fe7a3986" />
+
+
 **[Click here to view the live project!](https://gokul-codes-420.github.io/Feedback-and-Rating-Webpage/)**
 
 ## 🛠️ Built With
